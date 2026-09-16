@@ -496,5 +496,8 @@ Linux 发行版之间差异很大。
 Made with 🐾 by
 
 **kuromi_serika × GPT 5.6 Sol**
-但是想法本身仅靠vibecoding是弄不出来的。目前除我之外github上没有比我性能更好的，不信你运行一下试试呗。
+
+
+但是想法本身仅靠vibecoding是弄不出来的。目前除我之外github上没有比我性能更好的。
+不信你运行一下试试呗。
 
