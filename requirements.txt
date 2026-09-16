@@ -1,0 +1,4 @@
+evdev==2.0.0
+mss==10.2.0
+numpy==2.5.3
+opencv_python==5.0.0.93
